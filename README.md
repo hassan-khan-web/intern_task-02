@@ -5,10 +5,7 @@ This Power BI dashboard is built using the superstore.csv dataset. It shows how 
 3. Regional Sales Distribution
 4. Relationship Between Discounts and Profit
 5. Category-wise Performance by Customer Segment
-6. Key Performance Indicators (KPIs):
-        .Total Sales
-        .Total Profit 
-        .Average Discount
+6. Key Performance Indicators (KPIs): Total Sales, Total Profit, Average Discount
 
 for reference and tools, I used Google, YouTube, ChatGPT, Deepseek, and Google Colab.
 Google and YouTube helped me find tutorials and understand power BI. 
